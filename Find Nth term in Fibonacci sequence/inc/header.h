@@ -1,6 +1,6 @@
 /**
  * @file header.h
- * @author Abhay Sahu (abhay.sahu@ltts.com)
+ * @author Jatin Batra (jatin.batra@ltts.com)
  * @brief 
  * @version 0.1
  * @date 2021-10-20
